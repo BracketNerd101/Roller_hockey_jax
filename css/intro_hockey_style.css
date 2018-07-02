@@ -12,7 +12,7 @@
     /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #6FB1FC, #4364F7, #0052D4);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    height: 50vh;
+    height: 100vh;
     margin-top: auto; }
     .intro_hockey_container .intro_kids_style .btn_intro_space {
       margin-top: 2.2rem;
@@ -20,7 +20,7 @@
     .intro_hockey_container .intro_kids_style .btn_radius_style {
       border-radius: 0px; }
     .intro_hockey_container .intro_kids_style .text_intro_styles {
-      margin-top: 2.3rem;
+      margin-top: 6rem;
       margin-bottom: 3rem;
       font-family: 'Open Sans', sans-serif; }
   .intro_hockey_container .intro_adults_style {
@@ -30,7 +30,7 @@
     /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #434343, #000000);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    height: 50vh;
+    height: 100vh;
     margin-top: auto; }
     .intro_hockey_container .intro_adults_style .btn_intro_space {
       margin-top: 2.2rem;
@@ -38,7 +38,7 @@
     .intro_hockey_container .intro_adults_style .btn_radius_style {
       border-radius: 0px; }
     .intro_hockey_container .intro_adults_style .text_intro_styles {
-      margin-top: 2.3rem;
+      margin-top: 6rem;
       margin-bottom: 3rem;
       font-family: 'Open Sans', sans-serif; }
 
