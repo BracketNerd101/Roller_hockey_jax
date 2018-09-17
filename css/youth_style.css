@@ -3,7 +3,6 @@ body {
 
 }
 
-
 .items_carusel {
   margin-top: -10rem;
 
@@ -26,4 +25,20 @@ body {
 
   padding-top: 2rem;
 
+}
+
+.section_helper_padding_2 {
+
+  padding-top: 4rem;
+
+}
+
+/* Images Below -------- */
+
+.hockey_style_half_img {
+
+  background-size: cover;
+  height: 30rem;
+  width: 100%;
+  background-image: url("../img/hockey-bro.jpg");
 }
