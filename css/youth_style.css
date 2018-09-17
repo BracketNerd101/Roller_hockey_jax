@@ -3,6 +3,11 @@ body {
 
 }
 
+.custom_btn_style {
+
+  border-radius: 0px;
+}
+
 .items_carusel {
   margin-top: -10rem;
 
