@@ -3,6 +3,14 @@ body {
 
 }
 
+/* font-family: 'Lato', sans-serif; */
+
+.sub_header_font_style {
+
+font-family: 'Lato', sans-serif;
+
+}
+
 .custom_btn_style {
 
   border-radius: 0px;
@@ -43,7 +51,7 @@ body {
 .hockey_style_half_img {
 
   background-size: cover;
-  height: 30rem;
+  height: 32rem;
   width: 100%;
   background-image: url("../img/hockey-bro.jpg");
 }
@@ -51,7 +59,15 @@ body {
 .hockey_style_half_adult {
 
   background-size: cover;
-  height: 30rem;
+  height: 32rem;
   width: 100%;
   background-image: url("../img/tyrone.jpg");
+}
+
+.hockey_style_half_goalie {
+
+  background-size: cover;
+  height: 32rem;
+  width: 100%;
+  background-image: url("../img/aedo.jpg");
 }
