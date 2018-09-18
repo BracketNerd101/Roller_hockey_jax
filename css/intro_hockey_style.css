@@ -1,10 +1,13 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:100i");
+body {
+  min-height: 1200px
+}
 .intro_hockey_container {
   height: inherit;
   margin-top: -10rem; }
   .intro_hockey_container img {
     width: auto;
-    height: 240px; }
+    height: 250px; }
   .intro_hockey_container .intro_kids_style {
     background: #0052D4;
     /* fallback for old browsers */
