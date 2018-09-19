@@ -5,6 +5,38 @@ body {
 
 /* font-family: 'Lato', sans-serif; */
 
+.hockey_adult_hero_banner_style {
+  /* background-image: url(../img/ironman_action.jpg); */
+  background: url(../img/faceoff.jpg);
+  background-size: cover;
+  height: 40rem;
+  width: 100vw;
+  margin-top: -12rem;
+  margin-bottom: auto;
+
+}
+
+.youth_adult_hero_banner_style {
+  /* background-image: url(../img/ironman_action.jpg); */
+  background: url(../img/hockey_fam.jpg);
+  background-size: cover;
+  height: 40rem;
+  width: 100vw;
+  margin-top: -12rem;
+  margin-bottom: auto;
+
+}
+
+.text_hockey_adult_hero_banner_style {
+
+  margin-top: 10rem;
+}
+
+.jumbotron {
+
+  background-color: transparent !important;
+}
+
 .sub_header_font_style {
 
 font-family: 'Lato', sans-serif;
@@ -61,7 +93,7 @@ font-family: 'Lato', sans-serif;
   background-size: cover;
   height: 32rem;
   width: 100%;
-  background-image: url("../img/tyrone.jpg");
+  background-image: url("../img/ironman_action.jpg");
 }
 
 .hockey_style_half_goalie {
@@ -69,5 +101,5 @@ font-family: 'Lato', sans-serif;
   background-size: cover;
   height: 32rem;
   width: 100%;
-  background-image: url("../img/aedo.jpg");
+  background-image: url("../img/goalies_adults.jpg");
 }
