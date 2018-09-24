@@ -32,29 +32,12 @@
   <body>
 
     <!-- Navigation -->
-    <!-- <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
-      <div class="container">
-        <a class="navbar-brand" href="#">Start Bootstrap</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="#">Sign Up</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Log In</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav> -->
 
-    <header class="text-center text-white hockey_adult_hero_banner_style_2">
+
+    <header class="text-center text-white youth_adult_hero_banner_style">
       <div class="masthead-content">
         <div class="container">
-          <h1 class="display-2 text-light text_hockey_adult_hero_banner_style_2 sub_header_font_style">Jax Roller Hockey </h1>
+          <h1 class="display-2 text-light text_hockey_adult_hero_banner_style_2 sub_header_font_style">Jax Youth Roller Hockey </h1>
           <p class="lead text-light">We play at Skate Station Mandarin.</p>
           <a href="#welcome_section" class="btn btn-success btn-xl js-scroll-trigger rounded-pill mt-5">Learn More</a>
         </div>
@@ -64,9 +47,9 @@
       <div class="bg-circle-3 bg-circle"></div>
       <div class="bg-circle-4 bg-circle"></div>
     </header>
-    <nav class="navbar navbar-expand-lg navbar-custom navbar-light bg-light sticky-top" id="mainNav">
+    <nav class="navbar navbar-expand-lg navbar-custom navbar-light bg-white sticky-top fixed-top" id="mainNav">
       <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Jax Roller Hockey</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Jax Youth Roller Hockey</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
           <i class="fas fa-bars"></i>
@@ -87,7 +70,7 @@
               <a class="nav-link js-scroll-trigger text-dark" href="#contact">Contact</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-uppercase sub_header_font_style text-dark" href="youth_hockey.html">Youth Roller Hockey</a>
+              <a class="nav-link text-uppercase sub_header_font_style text-dark" href="alt_index.html">Jax Adult Roller Hockey</a>
             </li>
           </ul>
           <ul class="navbar-nav">
@@ -96,7 +79,7 @@
                 <i class="far fa-chart-bar fa-2x"></i>
               </a></li>
             <li class="nav-item">
-              <a target="_blank" href="https://www.facebook.com/groups/607577702633825/" class="nav-link text-dark">
+              <a target="_blank" href="https://www.facebook.com/groups/1131000800260674/" class="nav-link text-dark">
                 <i class="fab fa-facebook-square fa-2x"></i>
               </a></li>
           </ul>
@@ -107,11 +90,11 @@
     <div class="container section_padding_style">
       <div class="row">
         <div class="col-lg-12" id="welcome_section">
-          <h2 class="text-center sub_header_font_style">Welcome to Jax Roller Hockey</h2>
+          <h2 class="text-center intro_section_font_style sub_header_font_style">Welcome to Jax (Youth) Roller Hockey</h2>
           <p class="text-center">Welcome Youth Hockey Players, Coaches, and Parents!
                This Group is for the Skate Station Youth Hockey League. <br>
                Schedules and Rosters will be posted here, as well as schedule and player changes.
-          </p>
+               </p>
         </div>
       </div>
     </div>
@@ -121,7 +104,7 @@
       <div class="row">
         <div class="col-md-6 col-lg-6 text-center">
           <div class="text-center mini-intro-icon">
-            <h3 class="text-center text-light section_helper_padding_2 sub_header_font_style">What you need to play.(Skater)</h3>
+            <h3 class="text-center text-light section_helper_padding_2 sub_header_font_style">Skaters need...</h3>
           </div>
           <ul class=" bg-dark text-light">
               <li class="list-group-item bg-dark">CSA approved helmet with cage</li>
@@ -135,7 +118,7 @@
           <a class="btn btn-lg btn-primary text-center custom_btn_style" target="_blank" href="https://www.inlinewarehouse.com/hockey.html" role="button">Inline Warehouse</a>
            <br><br>
         </div>
-        <div class="col-md-6 col-lg-6 text-center hockey_style_half_adult">
+        <div class="col-md-6 col-lg-6 text-center hockey_style_half_img">
         </div>
       </div>
     </div>
@@ -143,11 +126,11 @@
 
     <div class="container-fluid bg-dark">
       <div class="row">
-        <div class="col-md-6 col-lg-6 text-center hockey_style_half_goalie">
+        <div class="col-md-6 col-lg-6 text-center hockey_style_half_goalie_youth">
         </div>
         <div class="col-md-6 col-lg-6 text-center">
           <div class="text-center mini-intro-icon">
-            <h3 class="text-center text-light section_helper_padding_2 sub_header_font_style">What you need to play.(Goalies)</h3>
+            <h3 class="text-center text-light section_helper_padding_2 sub_header_font_style">Goalies need...</h3>
           </div>
           <ul class="bg-dark text-light">
             <li class="list-group-item bg-dark">CSA approved goalie helmet and cage</li>
@@ -193,15 +176,18 @@
         <div class="row align-items-center">
           <div class="col-lg-6 order-lg-2">
             <div class="p-5">
-              <img class="img-fluid rounded-circle" src="img/justin-bw.jpg" alt="">
+              <img class="img-fluid rounded-circle" src="img/jake.jpg" alt="">
             </div>
           </div>
           <div class="col-lg-6 order-lg-1">
             <div class="p-5">
-              <h2 class="display-4 sub_header_font_style">Adult Hockey</h2>
-              <p>We play Monday and Tuesday at two different times. <br> 8pm and 9pm are the scheduled games. <br>
-                We also offter drop in hockey where players pay 5$ at the door and Goalies play free. <br> Theese drop in hockey days are usually scheduled and announced on our facebook page.</p>
-                <a class="btn btn-primary custom_btn_style" target="_blank" href="https://www.facebook.com/groups/607577702633825/" role="button"><i class="fab fa-facebook-square"></i> Facebook Page </a>
+              <h1 class="section_helper_padding sub_header_font_style">Youth Hockey</h1>
+              <p>  May schedule: No hockey on Monday's. <br>
+                   Tuesdaus: 6:00pm-7:30pm will be pick up hockey. <br>
+                   We play @ Skate Station Funworks 3461 Kori Rd
+                   Jacksonville, Florida
+                 </p>
+                <a class="btn btn-primary custom_btn_style" target="_blank" href="https://www.facebook.com/groups/1131000800260674/" role="button"><i class="fab fa-facebook-square"></i> Facebook Page </a>
             </div>
           </div>
         </div>

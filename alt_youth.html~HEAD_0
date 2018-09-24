@@ -36,14 +36,9 @@
               <a target="_blank" class="nav-link text-white text-uppercase sub_header_font_style" target="_blank" href="https://www.mystatsonline.com/hockey/visitor/league/stats/skater_hockey.aspx?IDLeague=46852">Stats </a>
             </li>
             <li class="nav-item">
-<<<<<<< HEAD:youth_hockey.html
-              <a class="nav-link text-white text-uppercase sub_header_font_style" href="#"> Schedule </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-white text-uppercase sub_header_font_style" href="adult_hockey.html">Adult Roller Hockey</a>
-=======
+
               <a class="nav-link text-uppercase sub_header_font_style text-dark" href="alt_index.html">Jax Adult Roller Hockey</a>
->>>>>>> parent of 3be969d... change names:alt_youth.html
+
             </li>
           </ul>
           <ul class="navbar-nav">
